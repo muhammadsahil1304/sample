@@ -1,3 +1,3 @@
 # sample
-My first git repository 
+My first git repository\n
 author=Sahil
