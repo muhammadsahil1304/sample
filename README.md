@@ -1,4 +1,4 @@
 # sample
 My first git repository
-\n
+<br>
 author=Sahil
